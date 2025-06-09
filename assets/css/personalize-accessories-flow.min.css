@@ -9509,7 +9509,7 @@ main.personalize-accessories-receiverflow-wrap .dropdown-size-group .dropdown-to
   padding: 0;
   overflow: auto;
 }
-.dropdown-size-group .dropdown-item {
+.dropdown-size-group .dropdown-item:hover, .dropdown-size-group .dropdown-item:focus {
   color: #16181b;
   text-decoration: none;
   background-color: #f8f9fa;
